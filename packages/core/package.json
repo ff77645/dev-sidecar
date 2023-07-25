@@ -39,6 +39,7 @@
     "node-cmd": "^3.0.0",
     "node-forge": "^0.8.2",
     "node-powershell": "^4.0.0",
+    "request": "^2.88.2",
     "require-context": "^1.1.0",
     "through2": "^2.0.1",
     "tunnel-agent": "^0.4.3",
